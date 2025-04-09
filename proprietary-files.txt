@@ -16,14 +16,6 @@ vendor/lib/libexynoscamera3.so
 vendor/lib/libuniapi.so
 vendor/lib/libuniplugin.so
 
-# Gralloc - From A205FNXXSBCWC3
-vendor/lib/hw/gralloc.exynos7884B.so
-vendor/lib64/hw/gralloc.exynos7884B.so
-
-# HWC - From A205FNXXSBCWC3
-vendor/lib/hw/hwcomposer.exynos7884B.so
-vendor/lib64/hw/hwcomposer.exynos7884B.so
-
 # Sensors
 vendor/lib/hw/sensors.universal7884B.so:vendor/lib/hw/sensors.exynos7884B.so
 
